@@ -3,7 +3,7 @@
 [//]: # (Priority - ... tags are assigned by team members)
 [//]: # (Your issue will be reviewed by testers and the developers will fix it in the future.)
 [//]: # (Only once the issue got the label [Fixed - On Live Server] you can find the fix on your Gameserver.)
-[//]: # (You can increase the relevance of your issue by adding a thumb-up emote 
+[//]: # (You can increase the relevance of your issue by adding a thumb-up emote )
 
 [//]: # (***************************************************************)
 [//]: # (** !!!!!!!!!!!!!DON'T DELETE THIS TEMPLATE ELSE YOUR ISSUE WILL BE CLOSED!!!!!!!!!!!! **)
